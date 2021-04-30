@@ -1,0 +1,300 @@
+.top-of-the-page {
+
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  
+}
+.Im{
+  font-size: 100px;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+
+}
+
+.top-right-cloud {
+
+  position: relative;
+  left: 1000px;
+  top: 30px;
+}
+
+.apro {
+  font-size: 50px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 80px;
+
+}
+
+.pro-span {
+  text-decoration: underline;
+}
+
+
+.bottom-left-cloud {
+
+  position: absolute;
+  right: 1000px;
+  top: 500px;
+
+}
+
+.mountain{
+  margin: auto;
+  position: relative;
+  left: 30vw;
+}
+
+
+
+
+
+
+
+
+
+.my-pro{
+
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 42vw;
+  bottom: -6vw;
+  border-radius: 50%;
+  border: 1px solid black;
+  
+  
+}
+
+.apro2 {
+  font-size: 40px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: -5.5vw;
+  right: 0.6vw;
+
+}
+
+.p1{
+  text-align: center;
+  text-justify: auto;
+  font-family: 'Merriweather', serif; 
+  position: relative;
+  bottom: -4.5vw;
+  right: 0.6vw;
+  line-height: 40px;
+  font-weight: bold;
+  color: #40514E;
+  font-size: 20px;
+
+}
+
+.a{
+  font-size: 40px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: -1.5vw;
+  right: 0.6vw;
+  font-family: bold;
+
+}
+
+.a2{
+
+  font-size: 40px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 4vw;
+  right: 0.6vw;
+  font-family: bold;
+
+
+}
+
+.co{
+
+  width: 200x;
+  height: 200px;
+  position: relative;
+  left: 19vw;
+  bottom: -6vw;
+  
+
+}
+
+.co2{
+
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 2vw;
+  bottom: -7vw;
+  
+
+}
+
+h3{
+
+  font-size: 30px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 8vw;
+  left: -3.9vw;
+  font-weight: bold;
+  
+}
+
+.p2{
+  text-align: center;
+  text-align: justify ;
+  font-family: 'Merriweather', serif; 
+  position: relative;
+  bottom:  8.5vw;
+  right: -34vw;
+  line-height: 40px;
+  font-weight: bold;
+  color: #40514E;
+  font-size: 20px;
+
+}
+
+.p3{
+
+  text-align: center;
+  text-align: justify ;
+  font-family: 'Merriweather', serif; 
+  position: relative;
+  bottom:  8.5vw;
+  right: -34.5vw;
+  line-height: 40px;
+  font-weight: bold;
+  color: #40514E;
+  font-size: 20px;
+
+}
+
+.co3{
+  width: 200x;
+  height: 200px;
+  position: relative;
+  right: -77vw;
+  bottom: -6vw;
+  
+
+}
+
+.move{
+  position: relative;
+  top: -10vw;
+}
+
+.a3{
+
+  font-size: 40px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 4vw;
+  right: 0.6vw;
+  font-family: bold;
+
+}
+
+.apro3 {
+  font-size: 40px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 3vw;
+  right: 0.6vw;
+
+}
+
+.hh{
+  font-size: 30px;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 2vw;
+  left: -1vw;
+  font-weight: bold;
+
+}
+
+.p4{
+  text-align: center;
+  font-family: 'Merriweather', serif; 
+  position: relative;
+  bottom:  1.5vw;
+  right: 1.5vw;
+  line-height: 40px;
+  font-weight: bold;
+  color: #40514E;
+  font-size: 20px;
+
+}
+
+
+
+
+.button{
+    border-radius: 10em;
+    background-color: #66BFBF;
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 25px;
+    position: relative;
+    bottom: -30px;
+    left: 41.5vw;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+a:hover{
+  background-color:#194350;
+  border-radius: 15px;
+}
+
+.link{
+background-color: #66BFBF;
+padding: 40px;
+position: relative;
+bottom: -11vw;
+text-align: center;
+}
+.li{
+margin: 20px;
+font-size: 20px;
+color: #11999E;
+padding: 5px;
+
+}
+
+.copyright{
+color: #EAF6F6;
+font-size: 18px;
+position: relative;
+bottom: -2vw;
+}
+
+.li:hover{
+  color: white;
+}
